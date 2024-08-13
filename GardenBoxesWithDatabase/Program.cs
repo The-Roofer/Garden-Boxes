@@ -29,6 +29,24 @@ namespace GardenBoxesWithDatabase
     }
 
 
+    static void AddVegtable()
+    {
+      string name = "";
+      double ratio = 0.0;
+
+      Console.Write("Enter the name of your vegtable:");
+      name = Console.ReadLine();
+      Console.Write("Enter the yeild rato");
+      ratio = Convert.ToDouble(Console.ReadLine());
+
+      SqlConnection conn = new SqlConnection(connectionString);
+      conn.Open();
+      SqlCommand cmd = new SqlCommand($"Insert into Vegtables (VegtableName,VegtableRatio) Values ('{name}','{ratio}')",conn);
+      Console.WriteLine(cmd.ExecuteNonQuery()+" Rows Affected");
+      conn.Close() ;
+    }
+
+
 
     static void Main(string[] args)
     {
@@ -45,11 +63,16 @@ namespace GardenBoxesWithDatabase
       Dictionary<string,double> veggieData = new Dictionary<string,double>();
 
       string response = "";
-
-
+      
       veggieData = LookupVegtable();
 
-      Console.WriteLine(veggieData["Carrots"]);
+      Console.WriteLine("Would you like to Add a Vegtable?");
+      response = Console.ReadLine().ToLower();
+      if (response[0] == 'y')
+      {
+        AddVegtable();
+      }
+
 
       Console.WriteLine("Enter gardenbox length");
       length = Convert.ToDouble(Console.ReadLine());
@@ -69,6 +92,8 @@ namespace GardenBoxesWithDatabase
       beets = Convert.ToInt32(veggieData["Beets"] * area);
 
       Console.WriteLine($"Your garden can handle {carrots} carrots, {corn} corn, or {beets} beets");
+
+  
 
 
     }

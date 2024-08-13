@@ -1,12 +1,9 @@
-## Garden Boxes!!!!
 
-Write a program that will take in a users garden box size, then let them pick from a list of plants and tell them how many they can plant in that space.
+Welcome to C# GardenBox Database
 
-Please create a database that will hold plants. You don't need to add more than 2 or 3 plants into the database for testing. Please make sure the database or a description of the database is included in your repo.
-
-Test Commit
-
-
-## To run
-
-Clone this repo then type `ruby program.rb`
+To Fix:
+    Parameterize Sql inputs
+To Add:
+    Option to Delete a crop
+    Option to adjust yeild
+    Give vegtable specific response
