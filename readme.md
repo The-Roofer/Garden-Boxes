@@ -1,9 +1,10 @@
+# Welcome to C# GardenBox Database
 
-Welcome to C# GardenBox Database
+## To Fix:
+- Parameterize SQL inputs
 
-To Fix:
-    Parameterize Sql inputs
-To Add:
-    Option to Delete a crop
-    Option to adjust yeild
-    Give vegtable specific response
+## To Add:
+- Option to delete a crop
+- Option to adjust yield
+- Provide vegetable-specific response
+
