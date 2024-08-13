@@ -1,0 +1,14 @@
+C:\Users\HELLO\Desktop\AcademyPGH\Git_Project\garden-boxes\GardenBoxesWithDatabase\bin\Debug\net8.0\GardenBoxesWithDatabase.exe
+C:\Users\HELLO\Desktop\AcademyPGH\Git_Project\garden-boxes\GardenBoxesWithDatabase\bin\Debug\net8.0\GardenBoxesWithDatabase.deps.json
+C:\Users\HELLO\Desktop\AcademyPGH\Git_Project\garden-boxes\GardenBoxesWithDatabase\bin\Debug\net8.0\GardenBoxesWithDatabase.runtimeconfig.json
+C:\Users\HELLO\Desktop\AcademyPGH\Git_Project\garden-boxes\GardenBoxesWithDatabase\bin\Debug\net8.0\GardenBoxesWithDatabase.dll
+C:\Users\HELLO\Desktop\AcademyPGH\Git_Project\garden-boxes\GardenBoxesWithDatabase\bin\Debug\net8.0\GardenBoxesWithDatabase.pdb
+C:\Users\HELLO\Desktop\AcademyPGH\Git_Project\garden-boxes\GardenBoxesWithDatabase\obj\Debug\net8.0\GardenBoxesWithDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Desktop\AcademyPGH\Git_Project\garden-boxes\GardenBoxesWithDatabase\obj\Debug\net8.0\GardenBoxesWithDatabase.AssemblyInfoInputs.cache
+C:\Users\HELLO\Desktop\AcademyPGH\Git_Project\garden-boxes\GardenBoxesWithDatabase\obj\Debug\net8.0\GardenBoxesWithDatabase.AssemblyInfo.cs
+C:\Users\HELLO\Desktop\AcademyPGH\Git_Project\garden-boxes\GardenBoxesWithDatabase\obj\Debug\net8.0\GardenBoxesWithDatabase.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\Desktop\AcademyPGH\Git_Project\garden-boxes\GardenBoxesWithDatabase\obj\Debug\net8.0\GardenBoxesWithDatabase.dll
+C:\Users\HELLO\Desktop\AcademyPGH\Git_Project\garden-boxes\GardenBoxesWithDatabase\obj\Debug\net8.0\refint\GardenBoxesWithDatabase.dll
+C:\Users\HELLO\Desktop\AcademyPGH\Git_Project\garden-boxes\GardenBoxesWithDatabase\obj\Debug\net8.0\GardenBoxesWithDatabase.pdb
+C:\Users\HELLO\Desktop\AcademyPGH\Git_Project\garden-boxes\GardenBoxesWithDatabase\obj\Debug\net8.0\GardenBoxesWithDatabase.genruntimeconfig.cache
+C:\Users\HELLO\Desktop\AcademyPGH\Git_Project\garden-boxes\GardenBoxesWithDatabase\obj\Debug\net8.0\ref\GardenBoxesWithDatabase.dll

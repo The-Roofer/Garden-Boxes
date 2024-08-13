@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HELLO\\Desktop\\AcademyPGH\\Git_Project\\GardenBoxesWithDatabase\\GardenBoxesWithDatabase.csproj",
+      "projectUniqueName": "C:\\Users\\HELLO\\Desktop\\AcademyPGH\\Git_Project\\garden-boxes\\GardenBoxesWithDatabase\\GardenBoxesWithDatabase.csproj",
       "projectName": "GardenBoxesWithDatabase",
-      "projectPath": "C:\\Users\\HELLO\\Desktop\\AcademyPGH\\Git_Project\\GardenBoxesWithDatabase\\GardenBoxesWithDatabase.csproj",
+      "projectPath": "C:\\Users\\HELLO\\Desktop\\AcademyPGH\\Git_Project\\garden-boxes\\GardenBoxesWithDatabase\\GardenBoxesWithDatabase.csproj",
       "packagesPath": "C:\\Users\\HELLO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HELLO\\Desktop\\AcademyPGH\\Git_Project\\GardenBoxesWithDatabase\\obj\\",
+      "outputPath": "C:\\Users\\HELLO\\Desktop\\AcademyPGH\\Git_Project\\garden-boxes\\GardenBoxesWithDatabase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

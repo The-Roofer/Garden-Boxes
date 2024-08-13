@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GardenBoxesWithDatabase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b678c598e1336001dcd5737578f85acb646b9f14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fc0d2a8844e56dcf8a52c25970634d7fba2e942")]
 [assembly: System.Reflection.AssemblyProductAttribute("GardenBoxesWithDatabase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GardenBoxesWithDatabase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
