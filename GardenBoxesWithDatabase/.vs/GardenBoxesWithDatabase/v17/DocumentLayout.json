@@ -5,6 +5,21 @@
     {
       "AbsoluteMoniker": "D:0:0:{EB1DB967-6577-4992-BE76-5D996C23C127}|GardenBoxesWithDatabase.csproj|c:\\users\\hello\\desktop\\academypgh\\git_project\\garden-boxes\\gardenboxeswithdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB1DB967-6577-4992-BE76-5D996C23C127}|GardenBoxesWithDatabase.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_HELLO_DESKTOP_ACADEMYPGH_GIT_PROJECT_GARDEN_BOXES_GARDENBOXESWITHDATABASE_FARMERDB.MDF/True/SqlTable/dbo.Vegtables.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HELLO\\Desktop\\AcademyPGH\\Git_Project\\garden-boxes\\GardenBoxesWithDatabase\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HELLO\\Desktop\\AcademyPGH\\Git_Project\\garden-boxes\\GardenBoxesWithDatabase\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HELLO\\Desktop\\AcademyPGH\\Git_Project\\garden-boxes\\GardenBoxesWithDatabase\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +29,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\HELLO\\Desktop\\AcademyPGH\\Git_Project\\garden-boxes\\GardenBoxesWithDatabase\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-13T17:32:28.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Vegtables [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_HELLO_DESKTOP_ACADEMYPGH_GIT_PROJECT_GARDEN_BOXES_GARDENBOXESWITHDATABASE_FARMERDB.MDF/True/SqlTable/dbo.Vegtables.sql",
+              "ToolTip": "dbo.Vegtables [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-13T17:32:26.121Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HELLO\\Desktop\\AcademyPGH\\Git_Project\\garden-boxes\\GardenBoxesWithDatabase\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\HELLO\\Desktop\\AcademyPGH\\Git_Project\\garden-boxes\\GardenBoxesWithDatabase\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AQIAAAQAAAAAAAAAAAA1wCAAAABQAAAA",
+              "ToolTip": "C:\\Users\\HELLO\\Desktop\\AcademyPGH\\Git_Project\\garden-boxes\\GardenBoxesWithDatabase\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwFcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T15:01:25.574Z",
               "EditorCaption": ""
